@@ -1,0 +1,100 @@
+ 3806284 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .font-unix
+ 3806285 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .Test-unix
+ 3806286 drwx------     0      0      4096 18-Aug-2021 10:36 systemd-private-b247e14889484a2889ebef94c660b11f-haveged.service-k8vhZf
+X3806288 drwx------     0      0         0 18-Aug-2021 10:39 systemd-private-b247e14889484a2889ebef94c660b11f-systemd-timesyncd.service-1Fkddh
+X3806290 drwx------     0      0         0 18-Aug-2021 10:39 systemd-private-b247e14889484a2889ebef94c660b11f-systemd-logind.service-5jxgmi
+X3806292 drwx------     0      0         0 18-Aug-2021 10:36 namespace-dev-tz4tWN
+X3806294 drwx------     0      0         0 18-Aug-2021 10:35 systemd-private-70978dc745534b8fb9beb364f5f0edc0-systemd-hostnamed.service-Y0VMsg
+X 786813 -rw-------     0      0         0 18-Aug-2021 10:38 .tX0-lock
+X 786813 -rw-------     0      0         0 18-Aug-2021 10:38 .X0-lock
+X3806297 drwx------     0      0         0 18-Aug-2021 10:35 systemd-private-70978dc745534b8fb9beb364f5f0edc0-upower.service-lXEMti
+X3545686 drwx------  1000   1001         0 18-Aug-2021 10:27 Temp-4b46f9b0-055e-480d-88e5-ecd1c2122d38
+X2516256 drwx------  1000   1001         0 18-Aug-2021 10:28 ssh-F9iyQx9FNFod
+X2642431 drwxr-xr-x  1000   1001         0 18-Aug-2021 10:34 hsperfdata_whitebot
+X 786815 -rw-------     0      0         0 18-Aug-2021 10:35 OSL_PIPE_1000_SingleOfficeIPC_7e69ba9987d3e3527a67c2a08d2db9e3
+X2757810 drwx------  1000   1001         0 18-Aug-2021 10:28 lu13552h0cj8w.tmp
+X 786825 -rw-------  1000   1001   1131095 18-Aug-2021 10:28 .mate_desktop_thumbnail.4MB470
+X3806281 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 atril-thumbnailer-13825
+X2642330 drwxrwxr-x     0      0      4096  6-Aug-2021 11:39 namespace-dev-ZU899W
+X1839863 -rwxrwxrwx  1000   1001    696336 17-Jun-2021 20:08 pip-unpack-u3p5qm1u
+X1980914 drwx------  1000   1001         0 19-May-2021 18:54 pip-record-kqo39bdr
+X 787206 drwxrwxrwt     0      0         0 17-Jul-2021 10:24 cciYjLjH.cdtor.o
+X 794879 lrwxrwxrwx     0      0         0 19-May-2021 18:07 apt-listchanges.config.jzmGXS
+X 794880 lrwxrwxrwx     0      0        25 12-Apr-2021 23:51 locales.template.wGfK0a
+X 795184 lrwxrwxrwx     0      0        54 19-May-2021 18:00 locales.config.jLqCM9
+X 795185 lrwxrwxrwx     0      0        32 12-Apr-2021 23:51 apparmor.template.zSXlDd
+X 795187 lrwxrwxrwx     0      0        53 19-May-2021 18:00 apparmor.config.V4u1sa
+X 795188 lrwxrwxrwx     0      0        34 12-Apr-2021 23:51 cryptsetup-initramfs.template.RuFUou
+X 795189 lrwxrwxrwx     0      0        50 19-May-2021 18:00 cryptsetup-initramfs.config.5VLOEu
+X 795190 lrwxrwxrwx     0      0        26 12-Apr-2021 23:51 cryptsetup.template.Ou1gdt
+X 795191 lrwxrwxrwx     0      0        53 19-May-2021 18:00 cryptsetup.config.8S0Dlu
+X 795192 lrwxrwxrwx     0      0        20 12-Apr-2021 23:51 exim4-config.template.yS2U0t
+X 795193 lrwxrwxrwx     0      0        58 19-May-2021 18:00 exim4-config.config.KQvwpt
+X 795194 lrwxrwxrwx     0      0        22 12-Apr-2021 23:51 exim4-daemon-light.template.rWa3lv
+X 795195 lrwxrwxrwx     0      0         0 19-May-2021 18:07 exim4-daemon-light.config.AwoTpw
+X 795196 lrwxrwxrwx     0      0        19 12-Apr-2021 23:51 exim4-base.template.hy3jHu
+X 795197 lrwxrwxrwx     0      0         0 19-May-2021 18:07 exim4-base.config.H9UG6s
+X 795198 lrwxrwxrwx     0      0        28 12-Apr-2021 23:51 grub-pc.template.TyuIVL
+X 795199 lrwxrwxrwx     0      0        56 19-May-2021 18:00 grub-pc.config.gOes7O
+X 795200 lrwxrwxrwx     0      0        36 12-Apr-2021 23:51 openvpn.template.JdW52p
+X 795201 lrwxrwxrwx     0      0        58 19-May-2021 18:00 openvpn.config.u5iHtm
+X 794266 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-5af9hg3u
+X 794268 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-xhjyuf88
+X 794270 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-k7xlawuz
+X 794272 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-b1v_ud0h
+X 794274 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-cci502d2
+X 794276 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-qbudigno
+X 794278 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-vj2jwlj_
+X 794280 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-04limml6
+X 794282 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-a5rxggar
+X 794284 drwxrwxr-x  1000   1000         0 18-Aug-2021 10:21 pip-unpack-y0_o5_yp
+X 794286 drwxrwxr-x  1000   1000         0 18-Aug-2021 10:21 pip-unpack-m5a488_l
+X 794288 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-o3p5eno7
+X 794290 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-_atd6r86
+X 794292 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-d8e5l37e
+X 794294 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-kh4sypan
+X 794296 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-rthb024d
+X 794298 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-4zjl01ku
+X 794300 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-6ycuu86m
+X 794302 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-rul6qz37
+X 794304 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-oj67qm01
+X 794306 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-ud1e4dq4
+X 794308 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-_wratkeq
+X 794310 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-_5ibn3su
+X 794312 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-dd1xzb03
+X 794314 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-9kpnkxc6
+Directory /
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 .
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 ..
+      11 drwx------     0      0     16384 31-Mar-2021 18:04 lost+found
+ 2359297 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 dev
+ 6291457 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 proc
+ 6029313 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 run
+ 1310721 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 sys
+      12 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 bin
+      20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img
+      14 lrwxrwxrwx     0      0        37 28-Mar-2021 06:47 initrd.img.old
+      15 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 lib
+      16 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib32
+      17 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib64
+      18 lrwxrwxrwx     0      0        10 27-Mar-2021 20:25 libx32
+      19 lrwxrwxrwx     0      0         8 27-Mar-2021 20:25 sbin
+      22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz
+      21 lrwxrwxrwx     0      0        34 28-Mar-2021 06:47 vmlinuz.old
+ 6422529 drwxr-xr-x     0      0      4096 19-May-2021 18:21 boot
+ 4718593 drwxr-xr-x     0      0     12288 16-Aug-2021 11:58 etc
+ 5767169 drwxr-xr-x     0      0      4096 31-Mar-2021 18:09 home
+ 3670017 drwxr-xr-x     0      0      4096 31-Mar-2021 18:25 media
+ 3145729 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 mnt
+ 3801089 drwxr-xr-x     0      0      4096 28-Mar-2021 06:46 opt
+ 3932161 drwxr-xr-x     0      0      4096 18-Aug-2021 02:07 root
+ 2097153 drwxr-xr-x     0      0      4096 28-Mar-2021 05:03 sandbox
+ 4194305 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 srv
+  786433 drwxrwxrwt     0      0      4096 18-Aug-2021 10:39 tmp
+  524289 drwxr-xr-x     0      0      4096 28-Mar-2021 06:38 usr
+ 4063233 drwxr-xr-x     0      0      4096  4-Aug-2021 16:04 var
+X     22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz.520445
+ 3407873 drwxr-xr-x     0      0      4096 16-Aug-2021 11:53 snap
+X     20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img.772387
+
+TestDisk exited normally.
