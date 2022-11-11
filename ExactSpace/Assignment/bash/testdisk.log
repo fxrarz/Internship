@@ -1,0 +1,353 @@
+
+
+Wed Aug 18 10:43:56 2021
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.11.0-25-generic (#27~20.04.1-Ubuntu SMP Tue Jul 13 17:41:23 UTC 2021) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+User is not root!
+Hard disk list
+
+
+TestDisk exited normally.
+Using locale 'en_IN'.
+
+
+Wed Aug 18 10:43:57 2021
+Command line: TestDisk /debug
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.11.0-25-generic (#27~20.04.1-Ubuntu SMP Tue Jul 13 17:41:23 UTC 2021) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+/dev/sda: LBA, HPA, LBA48, DCO support
+/dev/sda: size       976773168 sectors
+/dev/sda: user_max   976773168 sectors
+/dev/sda: native_max 976773168 sectors
+/dev/sda: dco        976773168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop31 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 500 GB / 465 GiB - CHS 60801 255 63, sector size=512 - Hitachi HTS545050A7E380, S/N:120830TEJ51139HWH6XP, FW:GG2OA7B0
+Disk /dev/sdb - 61 GB / 57 GiB - CHS 58680 64 32, sector size=512 - USB SanDisk 3.2Gen1, FW:1.00
+Disk /dev/loop0 - 1044 MB / 996 MiB - 2040384 sectors (RO), sector size=512
+Disk /dev/loop1 - 1011 MB / 964 MiB - 1975688 sectors (RO), sector size=512
+Disk /dev/loop10 - 104 MB / 99 MiB - 203520 sectors (RO), sector size=512
+Disk /dev/loop11 - 104 MB / 99 MiB - 203536 sectors (RO), sector size=512
+Disk /dev/loop12 - 58 MB / 55 MiB - 113544 sectors (RO), sector size=512
+Disk /dev/loop13 - 58 MB / 55 MiB - 113536 sectors (RO), sector size=512
+Disk /dev/loop14 - 64 MB / 61 MiB - 126424 sectors (RO), sector size=512
+Disk /dev/loop15 - 64 MB / 61 MiB - 126504 sectors (RO), sector size=512
+Disk /dev/loop16 - 67 MB / 64 MiB - 132648 sectors (RO), sector size=512
+Disk /dev/loop17 - 129 MB / 123 MiB - 253432 sectors (RO), sector size=512
+Disk /dev/loop18 - 229 MB / 219 MiB - 448512 sectors (RO), sector size=512
+Disk /dev/loop19 - 27 MB / 26 MiB - 53720 sectors (RO), sector size=512
+Disk /dev/loop2 - 195 MB / 186 MiB - 381800 sectors (RO), sector size=512
+Disk /dev/loop20 - 170 MB / 162 MiB - 333552 sectors (RO), sector size=512
+Disk /dev/loop21 - 229 MB / 218 MiB - 448496 sectors (RO), sector size=512
+Disk /dev/loop22 - 53 MB / 50 MiB - 104360 sectors (RO), sector size=512
+Disk /dev/loop23 - 68 MB / 65 MiB - 133320 sectors (RO), sector size=512
+Disk /dev/loop24 - 53 MB / 50 MiB - 104360 sectors (RO), sector size=512
+Disk /dev/loop25 - 33 MB / 32 MiB - 66144 sectors (RO), sector size=512
+Disk /dev/loop26 - 33 MB / 32 MiB - 66120 sectors (RO), sector size=512
+Disk /dev/loop27 - 321 MB / 306 MiB - 628432 sectors (RO), sector size=512
+Disk /dev/loop28 - 318 MB / 304 MiB - 622904 sectors (RO), sector size=512
+Disk /dev/loop29 - 129 MB / 123 MiB - 253416 sectors (RO), sector size=512
+Disk /dev/loop3 - 207 MB / 198 MiB - 405528 sectors (RO), sector size=512
+Disk /dev/loop30 - 172 MB / 164 MiB - 337424 sectors (RO), sector size=512
+Disk /dev/loop4 - 85 MB / 81 MiB - 167480 sectors (RO), sector size=512
+Disk /dev/loop5 - 87 MB / 83 MiB - 170592 sectors (RO), sector size=512
+Disk /dev/loop6 - 10 MB / 10 MiB - 20840 sectors (RO), sector size=512
+Disk /dev/loop7 - 9531 KB / 9308 KiB - 18616 sectors (RO), sector size=512
+Disk /dev/loop8 - 227 MB / 216 MiB - 444312 sectors (RO), sector size=512
+Disk /dev/loop9 - 219 MB / 208 MiB - 427992 sectors (RO), sector size=512
+
+Partition table type (auto): Intel
+Disk /dev/sda - 500 GB / 465 GiB - Hitachi HTS545050A7E380
+Partition table type: Intel
+
+Interface Advanced
+Geometry from i386 MBR: head=255 sector=63
+NTFS at 0/32/33
+NTFS at 6/127/58
+check_part_i386 3 type 27: no test
+get_geometry_from_list_part_aux head=8 nbr=1
+get_geometry_from_list_part_aux head=16 nbr=1
+get_geometry_from_list_part_aux head=32 nbr=1
+get_geometry_from_list_part_aux head=64 nbr=1
+get_geometry_from_list_part_aux head=128 nbr=1
+ 1 * HPFS - NTFS              0  32 33     6 127 57     102400 [System Reserved]
+     NTFS, blocksize=4096, 52 MB / 50 MiB
+ 2 P HPFS - NTFS              6 127 58 47682  63 17  765910868
+     NTFS, blocksize=4096, 392 GB / 365 GiB
+ 4 P Linux                47682  66  1 60736 108 44  209715200
+     ext4 blocksize=4096 Large_file Sparse_SB, 107 GB / 100 GiB
+ 3 P Windows RE(store)    60736 108 45 60801  15 14    1038336
+search_superblock
+
+recover_EXT2: s_block_group_nr=0/800, s_mnt_count=106/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Last mount time:    Wed Aug 18 10:36:14 2021
+Ext2 superblock found at sector 2 (block=0, blocksize=4096)
+
+block_group_nr 1
+
+recover_EXT2: "e2fsck -b 32768 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=1/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 262144 (block=32768, blocksize=4096)
+
+block_group_nr 3
+
+recover_EXT2: "e2fsck -b 98304 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=3/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 786432 (block=98304, blocksize=4096)
+
+block_group_nr 5
+
+recover_EXT2: "e2fsck -b 163840 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=5/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 1310720 (block=163840, blocksize=4096)
+
+block_group_nr 7
+
+recover_EXT2: "e2fsck -b 229376 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=7/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 1835008 (block=229376, blocksize=4096)
+
+block_group_nr 9
+
+recover_EXT2: "e2fsck -b 294912 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=9/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 2359296 (block=294912, blocksize=4096)
+
+block_group_nr 25
+
+recover_EXT2: "e2fsck -b 819200 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=25/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 6553600 (block=819200, blocksize=4096)
+
+block_group_nr 27
+
+recover_EXT2: "e2fsck -b 884736 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=27/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 7077888 (block=884736, blocksize=4096)
+
+block_group_nr 49
+
+recover_EXT2: "e2fsck -b 1605632 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=49/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 12845056 (block=1605632, blocksize=4096)
+
+block_group_nr 81
+
+recover_EXT2: "e2fsck -b 2654208 -B 4096 device" may be needed
+recover_EXT2: s_block_group_nr=81/800, s_mnt_count=0/4294967295, s_blocks_per_group=32768, s_inodes_per_group=8192
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 26214400
+recover_EXT2: part_size 209715200
+Filesystem created: Wed Mar 31 18:04:41 2021
+Ext2 superblock found at sector 21233664 (block=2654208, blocksize=4096)
+  Linux                47682  66  1 60736 108 44  209715200
+superblock 0, blocksize=4096 []
+superblock 32768, blocksize=4096 []
+superblock 98304, blocksize=4096 []
+superblock 163840, blocksize=4096 []
+superblock 229376, blocksize=4096 []
+superblock 294912, blocksize=4096 []
+superblock 819200, blocksize=4096 []
+superblock 884736, blocksize=4096 []
+superblock 1605632, blocksize=4096 []
+superblock 2654208, blocksize=4096 []
+
+To repair the filesystem using alternate superblock, run
+fsck.ext4 -p -b superblock -B blocksize device
+
+
+dir_partition inode=2
+ 4 P Linux                47682  66  1 60736 108 44  209715200
+     ext4 blocksize=4096 Large_file Sparse_SB, 107 GB / 100 GiB
+Directory /
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 .
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 ..
+      11 drwx------     0      0     16384 31-Mar-2021 18:04 lost+found
+ 2359297 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 dev
+ 6291457 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 proc
+ 6029313 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 run
+ 1310721 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 sys
+      12 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 bin
+      20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img
+      14 lrwxrwxrwx     0      0        37 28-Mar-2021 06:47 initrd.img.old
+      15 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 lib
+      16 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib32
+      17 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib64
+      18 lrwxrwxrwx     0      0        10 27-Mar-2021 20:25 libx32
+      19 lrwxrwxrwx     0      0         8 27-Mar-2021 20:25 sbin
+      22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz
+      21 lrwxrwxrwx     0      0        34 28-Mar-2021 06:47 vmlinuz.old
+ 6422529 drwxr-xr-x     0      0      4096 19-May-2021 18:21 boot
+ 4718593 drwxr-xr-x     0      0     12288 16-Aug-2021 11:58 etc
+ 5767169 drwxr-xr-x     0      0      4096 31-Mar-2021 18:09 home
+ 3670017 drwxr-xr-x     0      0      4096 31-Mar-2021 18:25 media
+ 3145729 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 mnt
+ 3801089 drwxr-xr-x     0      0      4096 28-Mar-2021 06:46 opt
+ 3932161 drwxr-xr-x     0      0      4096 18-Aug-2021 02:07 root
+ 2097153 drwxr-xr-x     0      0      4096 28-Mar-2021 05:03 sandbox
+ 4194305 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 srv
+  786433 drwxrwxrwt     0      0      4096 18-Aug-2021 10:39 tmp
+  524289 drwxr-xr-x     0      0      4096 28-Mar-2021 06:38 usr
+ 4063233 drwxr-xr-x     0      0      4096  4-Aug-2021 16:04 var
+X     22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz.520445
+ 3407873 drwxr-xr-x     0      0      4096 16-Aug-2021 11:53 snap
+X     20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img.772387
+
+dir_partition inode=786433
+ 4 P Linux                47682  66  1 60736 108 44  209715200
+     ext4 blocksize=4096 Large_file Sparse_SB, 107 GB / 100 GiB
+ext2fs_read_inode(ino=6901860) failed with error 2133571369.
+Directory /tmp
+  786433 drwxrwxrwt     0      0      4096 18-Aug-2021 10:39 .
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 ..
+ 3806281 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .X11-unix
+ 3806282 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .ICE-unix
+ 3806283 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .XIM-unix
+ 3806284 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .font-unix
+ 3806285 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 .Test-unix
+ 3806286 drwx------     0      0      4096 18-Aug-2021 10:36 systemd-private-b247e14889484a2889ebef94c660b11f-haveged.service-k8vhZf
+X3806288 drwx------     0      0         0 18-Aug-2021 10:39 systemd-private-b247e14889484a2889ebef94c660b11f-systemd-timesyncd.service-1Fkddh
+X3806290 drwx------     0      0         0 18-Aug-2021 10:39 systemd-private-b247e14889484a2889ebef94c660b11f-systemd-logind.service-5jxgmi
+X3806292 drwx------     0      0         0 18-Aug-2021 10:36 namespace-dev-tz4tWN
+X3806294 drwx------     0      0         0 18-Aug-2021 10:35 systemd-private-70978dc745534b8fb9beb364f5f0edc0-systemd-hostnamed.service-Y0VMsg
+X 786813 -rw-------     0      0         0 18-Aug-2021 10:38 .tX0-lock
+X 786813 -rw-------     0      0         0 18-Aug-2021 10:38 .X0-lock
+X3806297 drwx------     0      0         0 18-Aug-2021 10:35 systemd-private-70978dc745534b8fb9beb364f5f0edc0-upower.service-lXEMti
+X3545686 drwx------  1000   1001         0 18-Aug-2021 10:27 Temp-4b46f9b0-055e-480d-88e5-ecd1c2122d38
+X2516256 drwx------  1000   1001         0 18-Aug-2021 10:28 ssh-F9iyQx9FNFod
+X2642431 drwxr-xr-x  1000   1001         0 18-Aug-2021 10:34 hsperfdata_whitebot
+X 786815 -rw-------     0      0         0 18-Aug-2021 10:35 OSL_PIPE_1000_SingleOfficeIPC_7e69ba9987d3e3527a67c2a08d2db9e3
+X2757810 drwx------  1000   1001         0 18-Aug-2021 10:28 lu13552h0cj8w.tmp
+X 786825 -rw-------  1000   1001   1131095 18-Aug-2021 10:28 .mate_desktop_thumbnail.4MB470
+X3806281 drwxrwxrwt     0      0      4096 18-Aug-2021 10:36 atril-thumbnailer-13825
+X2642330 drwxrwxr-x     0      0      4096  6-Aug-2021 11:39 namespace-dev-ZU899W
+X1839863 -rwxrwxrwx  1000   1001    696336 17-Jun-2021 20:08 pip-unpack-u3p5qm1u
+X1980914 drwx------  1000   1001         0 19-May-2021 18:54 pip-record-kqo39bdr
+X 787206 drwxrwxrwt     0      0         0 17-Jul-2021 10:24 cciYjLjH.cdtor.o
+X 794879 lrwxrwxrwx     0      0         0 19-May-2021 18:07 apt-listchanges.config.jzmGXS
+X 794880 lrwxrwxrwx     0      0        25 12-Apr-2021 23:51 locales.template.wGfK0a
+X 795184 lrwxrwxrwx     0      0        54 19-May-2021 18:00 locales.config.jLqCM9
+X 795185 lrwxrwxrwx     0      0        32 12-Apr-2021 23:51 apparmor.template.zSXlDd
+X 795187 lrwxrwxrwx     0      0        53 19-May-2021 18:00 apparmor.config.V4u1sa
+X 795188 lrwxrwxrwx     0      0        34 12-Apr-2021 23:51 cryptsetup-initramfs.template.RuFUou
+X 795189 lrwxrwxrwx     0      0        50 19-May-2021 18:00 cryptsetup-initramfs.config.5VLOEu
+X 795190 lrwxrwxrwx     0      0        26 12-Apr-2021 23:51 cryptsetup.template.Ou1gdt
+X 795191 lrwxrwxrwx     0      0        53 19-May-2021 18:00 cryptsetup.config.8S0Dlu
+X 795192 lrwxrwxrwx     0      0        20 12-Apr-2021 23:51 exim4-config.template.yS2U0t
+X 795193 lrwxrwxrwx     0      0        58 19-May-2021 18:00 exim4-config.config.KQvwpt
+X 795194 lrwxrwxrwx     0      0        22 12-Apr-2021 23:51 exim4-daemon-light.template.rWa3lv
+X 795195 lrwxrwxrwx     0      0         0 19-May-2021 18:07 exim4-daemon-light.config.AwoTpw
+X 795196 lrwxrwxrwx     0      0        19 12-Apr-2021 23:51 exim4-base.template.hy3jHu
+X 795197 lrwxrwxrwx     0      0         0 19-May-2021 18:07 exim4-base.config.H9UG6s
+X 795198 lrwxrwxrwx     0      0        28 12-Apr-2021 23:51 grub-pc.template.TyuIVL
+X 795199 lrwxrwxrwx     0      0        56 19-May-2021 18:00 grub-pc.config.gOes7O
+X 795200 lrwxrwxrwx     0      0        36 12-Apr-2021 23:51 openvpn.template.JdW52p
+X 795201 lrwxrwxrwx     0      0        58 19-May-2021 18:00 openvpn.config.u5iHtm
+X 794266 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-5af9hg3u
+X 794268 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-xhjyuf88
+X 794270 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-k7xlawuz
+X 794272 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-b1v_ud0h
+X 794274 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-cci502d2
+X 794276 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-qbudigno
+X 794278 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-vj2jwlj_
+X 794280 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-04limml6
+X 794282 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-a5rxggar
+X 794284 drwxrwxr-x  1000   1000         0 18-Aug-2021 10:21 pip-unpack-y0_o5_yp
+X 794286 drwxrwxr-x  1000   1000         0 18-Aug-2021 10:21 pip-unpack-m5a488_l
+X 794288 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-o3p5eno7
+X 794290 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-_atd6r86
+X 794292 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-d8e5l37e
+X 794294 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-kh4sypan
+X 794296 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-rthb024d
+X 794298 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-4zjl01ku
+X 794300 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-6ycuu86m
+X 794302 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-rul6qz37
+X 794304 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-oj67qm01
+X 794306 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-ud1e4dq4
+X 794308 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-_wratkeq
+X 794310 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-_5ibn3su
+X 794312 -rw-r--r--  1000   1001         0 18-Aug-2021 10:21 pip-unpack-dd1xzb03
+X 794314 drwxr-xr-x  1000   1001         0 30-May-2021 13:12 pip-unpack-9kpnkxc6
+Directory /
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 .
+       2 drwxr-xr-x     0      0      4096 19-May-2021 18:18 ..
+      11 drwx------     0      0     16384 31-Mar-2021 18:04 lost+found
+ 2359297 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 dev
+ 6291457 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 proc
+ 6029313 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 run
+ 1310721 drwxr-xr-x     0      0      4096 31-Mar-2021 18:04 sys
+      12 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 bin
+      20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img
+      14 lrwxrwxrwx     0      0        37 28-Mar-2021 06:47 initrd.img.old
+      15 lrwxrwxrwx     0      0         7 27-Mar-2021 20:25 lib
+      16 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib32
+      17 lrwxrwxrwx     0      0         9 27-Mar-2021 20:25 lib64
+      18 lrwxrwxrwx     0      0        10 27-Mar-2021 20:25 libx32
+      19 lrwxrwxrwx     0      0         8 27-Mar-2021 20:25 sbin
+      22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz
+      21 lrwxrwxrwx     0      0        34 28-Mar-2021 06:47 vmlinuz.old
+ 6422529 drwxr-xr-x     0      0      4096 19-May-2021 18:21 boot
+ 4718593 drwxr-xr-x     0      0     12288 16-Aug-2021 11:58 etc
+ 5767169 drwxr-xr-x     0      0      4096 31-Mar-2021 18:09 home
+ 3670017 drwxr-xr-x     0      0      4096 31-Mar-2021 18:25 media
+ 3145729 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 mnt
+ 3801089 drwxr-xr-x     0      0      4096 28-Mar-2021 06:46 opt
+ 3932161 drwxr-xr-x     0      0      4096 18-Aug-2021 02:07 root
+ 2097153 drwxr-xr-x     0      0      4096 28-Mar-2021 05:03 sandbox
+ 4194305 drwxr-xr-x     0      0      4096 27-Mar-2021 20:25 srv
+  786433 drwxrwxrwt     0      0      4096 18-Aug-2021 10:39 tmp
+  524289 drwxr-xr-x     0      0      4096 28-Mar-2021 06:38 usr
+ 4063233 drwxr-xr-x     0      0      4096  4-Aug-2021 16:04 var
+X     22 lrwxrwxrwx     0      0        34 19-May-2021 18:18 vmlinuz.520445
+ 3407873 drwxr-xr-x     0      0      4096 16-Aug-2021 11:53 snap
+X     20 lrwxrwxrwx     0      0        37 19-May-2021 18:18 initrd.img.772387
+
+TestDisk exited normally.

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlaskApp</title>
+    <script type = "text/javascript">
+    function json_validate() {
+       const json_data = JSON.stringify(document.getElementById("json").value);
+       
+       let xhr = new XMLHttpRequest();
+       xhr.open("POST", "/jsonapi");
+       xhr.setRequestHeader("Accept", "application/json");
+       xhr.setRequestHeader("Content-Type", "application/json");
+       
+       try {  
+           const json = JSON.parse(json_data);
+           console.log('valid json');
+           xhr.send(json_data);
+           
+           
+           xhr.onload = function () {
+               if (xhr.status == 201) {
+                   document.getElementById('p').innerHTML = json_data;
+               }
+           };
+       } catch (e) {  
+           console.log('invalid json');  
+       }
+       
+    }
+    
+
+    </script>
+</head>
+<body>
+    <label for="json">Form for JSON:</label><br>
+	<textarea id="json" name="json" rows="4" cols="50">
+	</textarea>
+	<br><br>
+    <button onclick="json_validate()">Submit</button>
+    <p id="p"></p>
+</body>
+</html>
