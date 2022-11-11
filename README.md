@@ -18,5 +18,7 @@ My internships are in:
 <br>
 
     Note: 
-        I have only attached the assessment questions and my code. The code written for production is not shared. This is not the default assessment procedure and may differ between companies.
+        I have only attached the assessment questions and my code. 
+        The code written for production is not shared. 
+        This is not the default assessment procedure and may differ between companies.
 
