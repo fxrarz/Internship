@@ -12,10 +12,9 @@ This repo contains the assessment problem statements during my internship and my
 <br>
 
 My internships are in:
-- Bash
-- Image processing
-- Restful-API
-
+- [Image processing](https://github.com/fxrarz/Internship/tree/main/baggageAI)
+- [Bash](https://github.com/fxrarz/Internship/tree/main/ExactSpace)
+- [Restful-API](https://github.com/fxrarz/Internship/tree/main/ExactSpace)
 
 <br>
 
