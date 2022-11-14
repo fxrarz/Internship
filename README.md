@@ -1,7 +1,7 @@
 # Internship
 
 <div align="center">
- <img src="./Asset/banner.jpg" />
+ <img src="./baggageAI/Asset/banner1.png".jpg" />
 </div>
 
 <br>    
